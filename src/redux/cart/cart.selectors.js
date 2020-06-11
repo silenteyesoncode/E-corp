@@ -15,12 +15,24 @@ export const selectCartHidden = createSelector(
   cart => cart.hidden
 );
 
+// select cart-item and show them to cart-dropdown
 export const selectCartItemsCount = createSelector(
   [selectCartItems],
   cartItems =>
     cartItems.reduce(
       (accumalatedQuantity, cartItem) =>
         accumalatedQuantity + cartItem.quantity,
+      0
+    )
+);
+
+// sums the selected cart-items
+export const selectCartTotal = createSelector(
+  [selectCartItems],
+  cartItems =>
+    cartItems.reduce(
+      (accumalatedQuantity, cartItem) =>
+        accumalatedQuantity + cartItem.quantity * cartItem.price,
       0
     )
 );
