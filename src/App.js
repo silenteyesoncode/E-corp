@@ -20,7 +20,10 @@ class App extends React.Component {
 
   unsubscribeFromAuth = null;
 
-  componentDidMount() {
+  
+  componentDidMount() // Invoked immediately after a component is mounted (inserted into the tree). Initialization that requires DOM nodes should go here.
+  // If you need to load data from a remote endpoint, this is a good place to instantiate the network request.
+  {
     const { setCurrentUser } = this.props;
 
 
