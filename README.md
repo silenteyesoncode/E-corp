@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-live:- https://5ee63870906ea801bc6559a9--imonk-corp360.netlify.app/
+live:- https://5ee652a42e9ec2f4b41e2833--imonk-corp360.netlify.app/
 
 ## Available Scripts
 
