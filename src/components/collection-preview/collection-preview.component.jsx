@@ -13,8 +13,10 @@ const CollectionPreview = ({ title, items }) => (
         .map(item => (
           <CollectionItem key={item.id} item={item} />
         ))}
-    </div>
+    </div>  
   </div>
 );
 
 export default CollectionPreview;
+
+// * CollectionPreview decides that only item should be display over shop page
