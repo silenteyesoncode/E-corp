@@ -3,5 +3,25 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    animation-name: moveIn-menu;
+        animation-duration: .8s;
+        animation-timing-function: ease-out;
+    
   }
   
+  
+@keyframes moveIn-menu{
+  0% {
+      opacity: 0;
+      transform: translateY(10rem);
+  }
+
+  80%{
+    transform: translateY(-1rem);
+  }
+
+  100% {
+      opacity: 1;
+      transform: translate(0);
+  }
+}

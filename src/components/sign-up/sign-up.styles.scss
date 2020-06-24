@@ -3,8 +3,27 @@
     display: flex;
     flex-direction: column;
     width: 380px;
+    animation-name: moveInRight-signUp;
+        animation-duration: .7s;
+        animation-timing-function: ease-out;
   
     .title {
       margin: 10px 0;
     }
   }
+
+@keyframes moveInRight-signUp {
+  0% {
+      opacity: 0;
+      transform: translateX(40rem);
+  }
+
+  80% {
+      transform: translateX(-1rem);
+  }
+
+  100% {
+      opacity: 1;
+      transform: translate(0);
+  }
+}
