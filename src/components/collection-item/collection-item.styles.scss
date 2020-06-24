@@ -5,6 +5,9 @@
   height: 350px;
   align-items: center;
   position: relative;
+  animation-name: moveIn;
+  animation-duration: 0.8s;
+  animation-timing-function: ease-out;
 
   .image {
     width: 100%;
@@ -20,6 +23,11 @@
     position: absolute;
     top: 255px;
     display: none;
+    animation-name: moveIn2;
+    animation-duration: 0.2s;
+    animation-timing-function: ease-out;
+    
+    
   }
 
   &:hover {
@@ -48,5 +56,32 @@
     .price {
       width: 10%;
     }
+  }
+}
+
+@keyframes moveIn {
+  0% {
+      opacity: 0;
+      transform: translateY(7rem);
+  }
+
+  100% {
+      opacity: 1;
+      transform: translate(0);
+  }
+}
+@keyframes moveIn2 {
+  0% {
+      opacity: 0;
+      transform: translateY(1rem);
+  }
+
+  80% {
+    transform: translateY(-5px);
+  }
+
+  100% {
+      opacity: 1;
+      transform: translate(0);
   }
 }
