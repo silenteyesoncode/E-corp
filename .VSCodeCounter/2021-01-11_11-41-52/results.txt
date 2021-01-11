@@ -1,0 +1,122 @@
+Date : 2021-01-11 11:41:52
+Directory : c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src
+Total : 65 files,  1875 codes, 84 comments, 358 blanks, all 2317 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| JavaScript       |         22 |        722 |         72 |        122 |        916 |
+| JavaScript React |         20 |        558 |          9 |        119 |        686 |
+| SCSS             |         18 |        497 |          1 |        109 |        607 |
+| XML              |          3 |         75 |          2 |          2 |         79 |
+| CSS              |          2 |         23 |          0 |          6 |         29 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                  |         65 |      1,875 |         84 |        358 |      2,317 |
+| assets                                                                                                             |          2 |         68 |          2 |          1 |         71 |
+| components                                                                                                         |         29 |        888 |          9 |        183 |      1,080 |
+| components\cart-dropdown                                                                                           |          2 |         58 |          5 |         11 |         74 |
+| components\cart-icon                                                                                               |          2 |         42 |          1 |          9 |         52 |
+| components\cart-item                                                                                               |          2 |         34 |          0 |          7 |         41 |
+| components\checkout-item                                                                                           |          2 |         73 |          1 |         13 |         87 |
+| components\collection-item                                                                                         |          2 |        100 |          0 |         16 |        116 |
+| components\collection-preview                                                                                      |          2 |         29 |          1 |          8 |         38 |
+| components\collections-overview                                                                                    |          2 |         21 |          0 |          6 |         27 |
+| components\custom-button                                                                                           |          2 |         56 |          1 |         11 |         68 |
+| components\directory                                                                                               |          2 |         39 |          0 |         13 |         52 |
+| components\form-input                                                                                              |          2 |         62 |          0 |         12 |         74 |
+| components\header                                                                                                  |          2 |         85 |          0 |         14 |         99 |
+| components\menu-item                                                                                               |          2 |         76 |          0 |         18 |         94 |
+| components\sign-in                                                                                                 |          2 |         76 |          0 |         21 |         97 |
+| components\sign-up                                                                                                 |          2 |        112 |          0 |         20 |        132 |
+| components\stripe-button                                                                                           |          1 |         25 |          0 |          4 |         29 |
+| firebase                                                                                                           |          1 |         40 |          0 |         10 |         50 |
+| pages                                                                                                              |          9 |        167 |          1 |         45 |        213 |
+| pages\checkout                                                                                                     |          2 |         84 |          0 |         15 |         99 |
+| pages\collection                                                                                                   |          2 |         39 |          1 |         14 |         54 |
+| pages\homepage                                                                                                     |          2 |         15 |          0 |         10 |         25 |
+| pages\shop                                                                                                         |          1 |         12 |          0 |          3 |         15 |
+| pages\sign-in-and-sign-up                                                                                          |          2 |         17 |          0 |          3 |         20 |
+| redux                                                                                                              |         16 |        495 |         35 |         73 |        603 |
+| redux\cart                                                                                                         |          5 |        112 |         14 |         24 |        150 |
+| redux\directory                                                                                                    |          2 |         49 |          0 |          5 |         54 |
+| redux\shop                                                                                                         |          3 |        274 |         18 |         19 |        311 |
+| redux\user                                                                                                         |          4 |         30 |          0 |          7 |         37 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                                                           | language         | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\App.css                                                            | CSS              |         10 |          0 |          4 |         14 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\App.js                                                             | JavaScript       |         62 |          2 |         18 |         82 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\App.test.js                                                        | JavaScript       |          8 |          0 |          2 |         10 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\assets\crown.svg                                                   | XML              |         16 |          1 |          0 |         17 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\assets\shopping-bag.svg                                            | XML              |         52 |          1 |          1 |         54 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\cart-dropdown\cart-dropdown.component.jsx               | JavaScript React |         32 |          5 |          7 |         44 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\cart-dropdown\cart-dropdown.styles.scss                 | SCSS             |         26 |          0 |          4 |         30 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\cart-icon\cart-icon.component.jsx                       | JavaScript React |         23 |          1 |          7 |         31 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\cart-icon\cart-icon.styles.scss                         | SCSS             |         19 |          0 |          2 |         21 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\cart-item\cart-item.component.jsx                       | JavaScript React |         14 |          0 |          3 |         17 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\cart-item\cart-item.styles.scss                         | SCSS             |         20 |          0 |          4 |         24 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\checkout-item\checkout-item.component.jsx               | JavaScript React |         38 |          1 |          6 |         45 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\checkout-item\checkout-item.styles.scss                 | SCSS             |         35 |          0 |          7 |         42 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\collection-item\collection-item.component.jsx           | JavaScript React |         26 |          0 |          3 |         29 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\collection-item\collection-item.styles.scss             | SCSS             |         74 |          0 |         13 |         87 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\collection-preview\collection-preview.component.jsx     | JavaScript React |         16 |          1 |          5 |         22 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\collection-preview\collection-preview.styles.scss       | SCSS             |         13 |          0 |          3 |         16 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\collections-overview\collections-overview.component.jsx | JavaScript React |         17 |          0 |          6 |         23 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\collections-overview\collections-overview.styles.scss   | SCSS             |          4 |          0 |          0 |          4 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\custom-button\custom-button.component.jsx               | JavaScript React |         19 |          0 |          4 |         23 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\custom-button\custom-button.styles.scss                 | SCSS             |         37 |          1 |          7 |         45 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\directory\directory.component.jsx                       | JavaScript React |         17 |          0 |          8 |         25 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\directory\directory.style.scss                          | SCSS             |         22 |          0 |          5 |         27 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\form-input\form-input.component.jsx                     | JavaScript React |         16 |          0 |          3 |         19 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\form-input\form-input.styles.scss                       | SCSS             |         46 |          0 |          9 |         55 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\header\header.component.jsx                             | JavaScript React |         46 |          0 |          6 |         52 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\header\header.styles.scss                               | SCSS             |         39 |          0 |          8 |         47 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\menu-item\menu-item.component.jsx                       | JavaScript React |         18 |          0 |          4 |         22 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\menu-item\menu-item.styles.scss                         | SCSS             |         58 |          0 |         14 |         72 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\sign-in\sign-in.component.jsx                           | JavaScript React |         61 |          0 |         13 |         74 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\sign-in\sign-in.styles.scss                             | SCSS             |         15 |          0 |          8 |         23 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\sign-up\sign-up.component.jsx                           | JavaScript React |         88 |          0 |         15 |        103 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\sign-up\sign-up.styles.scss                             | SCSS             |         24 |          0 |          5 |         29 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\components\stripe-button\stripe-button.component.jsx               | JavaScript React |         25 |          0 |          4 |         29 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\firebase\firebase.utils.js                                         | JavaScript       |         40 |          0 |         10 |         50 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\index.css                                                          | CSS              |         13 |          0 |          2 |         15 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\index.js                                                           | JavaScript       |         18 |          0 |          5 |         23 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\logo.svg                                                           | XML              |          7 |          0 |          1 |          8 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\pages\checkout\checkout.component.jsx                              | JavaScript React |         47 |          0 |          8 |         55 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\pages\checkout\checkout.styles.scss                                | SCSS             |         37 |          0 |          7 |         44 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\pages\collection\collection.component.jsx                          | JavaScript React |         23 |          1 |          6 |         30 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\pages\collection\collection.styles.scss                            | SCSS             |         16 |          0 |          8 |         24 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\pages\homepage\homepage.component.jsx                              | JavaScript React |          9 |          0 |          5 |         14 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\pages\homepage\homepage.styles.scss                                | SCSS             |          6 |          0 |          5 |         11 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\pages\shop\shop.component.jsx                                      | JavaScript React |         12 |          0 |          3 |         15 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\pages\sign-in-and-sign-up\sign-in-and-sign-up.component.jsx        | JavaScript React |         11 |          0 |          3 |         14 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\pages\sign-in-and-sign-up\sign-in-and-sign-up.styles.scss          | SCSS             |          6 |          0 |          0 |          6 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\cart\cart.actions.js                                         | JavaScript       |         16 |          3 |          5 |         24 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\cart\cart.reducer.js                                         | JavaScript       |         35 |          1 |          5 |         41 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\cart\cart.selectors.js                                       | JavaScript       |         28 |          5 |          6 |         39 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\cart\cart.types.js                                           | JavaScript       |          7 |          0 |          2 |          9 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\cart\cart.utis.js                                            | JavaScript       |         26 |          5 |          6 |         37 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\directory\directory.reducer.js                               | JavaScript       |         43 |          0 |          3 |         46 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\directory\directory.selectors.js                             | JavaScript       |          6 |          0 |          2 |          8 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\root-reducer.js                                              | JavaScript       |         19 |          1 |          6 |         26 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\shop\shop.data.js                                            | JavaScript       |        248 |          0 |          1 |        249 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\shop\shop.reducer.js                                         | JavaScript       |         11 |          0 |          5 |         16 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\shop\shop.selectors.js                                       | JavaScript       |         15 |         18 |         13 |         46 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\store.js                                                     | JavaScript       |         11 |          2 |         12 |         25 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\user\user.actions.js                                         | JavaScript       |          5 |          0 |          1 |          6 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\user\user.reducer.js                                         | JavaScript       |         16 |          0 |          4 |         20 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\user\user.selectors.js                                       | JavaScript       |          6 |          0 |          2 |          8 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\redux\user\user.types.js                                           | JavaScript       |          3 |          0 |          0 |          3 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\serviceWorker.js                                                   | JavaScript       |         98 |         31 |         13 |        142 |
+| c:\Users\Mayank Kumar\Desktop\MyProj\E-corp\src\setupTests.js                                                      | JavaScript       |          1 |          4 |          1 |          6 |
+| Total                                                                                                              |                  |      1,875 |         84 |        358 |      2,317 |
++--------------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
