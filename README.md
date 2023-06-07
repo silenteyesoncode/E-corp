@@ -10,8 +10,7 @@ Once a user has found the GitHub user they are interested in, they can click on 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Screenshot 2023-06-07 184447](https://github.com/silenteyesoncode/E-corp/assets/46851135/b360d2da-3cb8-4372-af24-7d0868456267)
 
 ## Run Locally
 
